@@ -1,0 +1,10 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "author": "Mark J. Moyer",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
