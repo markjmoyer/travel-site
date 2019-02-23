@@ -1,3 +1,2 @@
-jQuery(document).ready( function() {
-  console.log("Scripts have concatenated");
-});
+
+  //alert("Scripts concatenated, blah, blah, blah."); 
