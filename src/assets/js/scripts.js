@@ -1,3 +1,3 @@
 jQuery(document).ready( function() {
-  console.log("Scripts are concatenated");
+  console.log("Scripts have concatenated");
 });
